@@ -5,4 +5,6 @@
 # 4. Include comments to clarify each line of code.
 
 
+"""This program  will determine the Pythagorean distance between three points."""
+
 
