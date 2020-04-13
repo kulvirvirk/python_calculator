@@ -16,4 +16,6 @@ x, y, z = 2, 3, 4
 c_squared = x**2 + y**2 + z**2 
 c = math.sqrt(c_squared)
 
+#4. 
+print (c)
 
